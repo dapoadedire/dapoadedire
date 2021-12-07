@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dapoadedire
+- 👋 Hi, I’m Adedire Adedapo. 
 - 👀 I’m interested in any Python beginner projects. 
 - 🌱 I’m currently learning Python. 
 - 📫 You can reach me on twitter.com/dapo_adedire 
