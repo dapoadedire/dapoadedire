@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Adedire Adedapo. 
+Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
+
 - 👀 I’m interested in any Python beginner projects. 
 - 🌱 I’m currently learning Python. 
 - 📫 You can reach me on twitter.com/dapo_adedire 
