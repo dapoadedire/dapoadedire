@@ -1,8 +1,5 @@
 
-
-- 👀 I’m a budding backend developer who's interest is building graeat apps with Django. 
-- 📫 You can reach me on twitter.com/dapo_adedire 
- 
+ <h1>Dapo Adedire</h1>
  
  
 
