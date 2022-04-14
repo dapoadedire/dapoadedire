@@ -1,16 +1,16 @@
-Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dapo Adedire!
+
 
 - 👀 I’m a budding backend developer who's interest is building graeat apps with Django. 
 - 📫 You can reach me on twitter.com/dapo_adedire 
  
  
  
-<!--  <img height="180em" width= 'auto' src="https://github-readme-stats.vercel.app/api?username=dapoadedire&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&showicons=true" />
- 
- <img height="180em" width='auto' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapoadedire&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&showicons=true" />
-   -->
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dapoadedire&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dapoadedire&langs_count=5&theme=tokyonight)]()
+
+<p align="center">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dapoadedire&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="dapoadedire" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dapoadedire&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="dapoadedire" /> 
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dapoadedire&theme=highcontrast&hide_border=true" alt="dapoadedire" />
+</p>
  
 <!---
 dapoadedire/dapoadedire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
