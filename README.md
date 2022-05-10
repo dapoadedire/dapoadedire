@@ -1,6 +1,6 @@
 
  <h1>Hi 👋 My name is Dapo Adedire.</h1>
- =========================================
+ 
 
 Fullstack Website Developer(BE Heavy), Community Builder, Blockchain Enthusiast and Open Source Contributor.
 ------------------------------------------
@@ -17,6 +17,8 @@ I'm also an active member of numerous developer communities like [GenZTechies](t
 * ✉️  You can contact me at [adedireadedapo19@gmail.com](mailto:adedireadedapo19@gmail.com)
 * 🤝  I'm open to collaborating on HTML, CSS and Python(Django) projects!
 
+
+------------------------------------------------------------------------------------
 ### Skills
 
 <p align="left">
@@ -25,17 +27,24 @@ I'm also an active member of numerous developer communities like [GenZTechies](t
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 </p>
 
-
+------------------------------------------------------------------------------------
 ### Socials
 
 <p align="left">
- <a href="https://www.dev.to/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a><a href="https://discord.com/users/dapoadedire#2535" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a><a href="http://www.instagram.com/dapo_adedire" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/dapoadedire/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.twitter.com/dapo_adedire" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://www.dev.to/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a>
+<a href="https://discord.com/users/dapoadedire#2535" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/dapo_adedire" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/dapoadedire/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/dapo_adedire" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 
- <p align="center">
+------------------------------------------------------------------------------------
  ### My Github Stats
 
 <p align="center">
- <img width="33.3%" src="https://github-readme-stats.vercel.app/api?username=dapoadedire&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="dapoadedire" /><img width="33.3%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dapoadedire&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="dapoadedire" /><img width="33.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=dapoadedire&theme=highcontrast&hide_border=true" alt="dapoadedire" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=dapoadedire&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="dapoadedire" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dapoadedire&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="dapoadedire" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dapoadedire&theme=highcontrast&hide_border=true" alt="dapoadedire" />
 </p>
  
 
