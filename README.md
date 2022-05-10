@@ -42,8 +42,8 @@ I'm also an active member of numerous developer communities like [GenZTechies](t
  ### My Github Stats
 
 <p align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=dapoadedire&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="dapoadedire" />
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dapoadedire&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="dapoadedire" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=dapoadedire&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&hide_border=true" alt="dapoadedire" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dapoadedire&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="dapoadedire" />
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dapoadedire&theme=highcontrast&hide_border=true" alt="dapoadedire" />
 </p>
  
