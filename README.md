@@ -2,7 +2,7 @@
  <h1>Hi 👋 My name is Dapo Adedire.</h1>
  
 
-Fullstack Website Developer(BE Heavy), Community Builder, Blockchain Enthusiast and Open Source Contributor.
+Fullstack Website Developer(BE Heavy), Blockchain Enthusiast and Open Source Contributor.
 ------------------------------------------
 
 
