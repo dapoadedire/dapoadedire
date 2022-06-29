@@ -19,10 +19,6 @@ I'm also an active member of numerous developer communities like [GenZTechies](t
 * 🤝  I'm open to collaborating on HTML, CSS and Python(Django) projects!
 
 
-<a href="https://www.twitter.com/dapo_adedire" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/dapo_adedire?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
-/></a>
-
 ------------------------------------------------------------------------------------
 
 ### Skills
