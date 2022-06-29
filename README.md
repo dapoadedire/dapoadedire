@@ -56,7 +56,7 @@ src="https://img.shields.io/twitter/follow/dapo_adedire?logo=twitter&style=for-t
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dapoadedire&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&hide_border=true" alt="dapoadedire" />
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dapoadedire&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="dapoadedire" />
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dapoadedire&theme=highcontrast&hide_border=true" alt="dapoadedire" />
-"><img src="https://activity-graph.herokuapp.com/graph?username=dapoadedire&bg_color=000000&color=facc15&line=f97316&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=dapoadedire&bg_color=000000&color=facc15&line=f97316&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </p>
 
 
