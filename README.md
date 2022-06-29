@@ -60,12 +60,4 @@ src="https://img.shields.io/twitter/follow/dapo_adedire?logo=twitter&style=for-t
 </p>
 
 
-------------------------------------------------------------------------------------
-### Support Me
-
-<a href="https://www.buymeacoffee.com/benrobo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-------------------------------------------------------------------------------------
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dapoadedire&color=7BD9F6&labelcolor=20232A" alt="">
-</p>
 
