@@ -53,4 +53,7 @@ I'm also an active member of numerous developer communities like [GenZTechies](t
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dapoadedire&theme=highcontrast&hide_border=true" alt="dapoadedire" />
 </p>
  
+------------------------------------------------------------------------------------
+### Visitor Count 👀
+<p align="center"><img src="https://profile-counter.glitch.me/{dapoadedire}/count.svg" alt="Dapo Adedire :: Visitor's Count" /></p>
 
