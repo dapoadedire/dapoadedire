@@ -55,9 +55,10 @@ I'm also an active member of numerous developer communities like [GenZTechies](t
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=dapoadedire&bg_color=000000&color=facc15&line=f97316&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </p>
 
-
+<p>
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/dapoadedire', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
 <!-- Calendly badge widget end -->
+</p>
