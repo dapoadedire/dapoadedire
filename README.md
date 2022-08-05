@@ -6,7 +6,7 @@ Fullstack Website Developer(BE Heavy), Blockchain Enthusiast and Open Source Con
 ------------------------------------------
 
 
-Goal-oriented and highly motivated sophomore electrical/electronics engineering student passionate about back-end engineering. Passionate about website and application development and currently a member of [Institute of Electrical and Electronics Engineers, OAU Student Branch(IEEE OAUSB)](twitter.com/ieeeoausb_) and [Google Developer Student Clubs (GDSC)](twitter.com/dscoau).       
+Goal-oriented and highly motivated electrical/electronics engineering student passionate about back-end engineering. Passionate about website and application development and currently a member of [Institute of Electrical and Electronics Engineers, OAU Student Branch(IEEE OAUSB)](twitter.com/ieeeoausb_) and [Google Developer Student Clubs (GDSC)](twitter.com/dscoau).       
 
 I've recently contributed to a few Open Source projects on [Aviyel](https://aviyel.com/projects) and [EddieHub Community](https://github.com/EddieHubCommunity).
 
