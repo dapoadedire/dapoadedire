@@ -14,3 +14,12 @@
 - [LinkedIn](https://www.linkedin.com/in/dapoadedire/)
 
 
+#### Skills
+
+- HTML | 	██████████░ 91%
+- CSS | ██░░░░░░░ 23%
+- Javascript| █░░░░░░░░░░░░ 5%
+- Python | ███████░░░░ 64%
+- Django | █████░░░░░░ 46%
+
+
