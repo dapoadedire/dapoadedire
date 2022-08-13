@@ -1,4 +1,4 @@
-### Dapo Adedire.Backend Developer     
+### Dapo Adedire, Backend Developer.   
 
 
 * 🌍  I'm based in Ile-Ife, Osun State, Nigeria.
