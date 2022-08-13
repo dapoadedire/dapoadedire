@@ -1,4 +1,4 @@
-### Backend Developer.   
+### Backend Developer(Open to internship roles).   
 
 
 * 🌍  I'm based in Ile-Ife, Osun State, Nigeria.
