@@ -16,10 +16,10 @@
 
 #### Skills
 
-- HTML | 	██████████░ 91%
-- CSS | ██░░░░░░░ 23%
-- Javascript| █░░░░░░░░░░░░ 5%
-- Python | ███████░░░░ 64%
-- Django | █████░░░░░░ 46%
+- [HTML]()
+- [CSS]() 
+- [Javascript]()
+- [Python]()
+- [Django]()
 
 
