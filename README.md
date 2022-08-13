@@ -23,3 +23,4 @@
 - [Django]()
 
 
+You can schedule a cofee chat with me here(https://calendly.com/dapoadedire/cofee-chat).
