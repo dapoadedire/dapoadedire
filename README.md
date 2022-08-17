@@ -17,6 +17,8 @@ You can schedule a cofee chat with me [here](https://calendly.com/dapoadedire/co
 ```text
 From: 09 August 2022 - To: 16 August 2022
 
+Total Time: 5 hrs 21 mins
+
 HTML         2 hrs 15 mins   ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.33 %
 C            1 hr 46 mins    ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.64 %
 Python       1 hr 33 mins    ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.29 %
