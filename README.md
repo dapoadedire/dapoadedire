@@ -1,4 +1,4 @@
-### Backend Developer(Open to internship roles)![](https://komarev.com/ghpvc/?username=dapoadedire&color=grey)
+### Backend Developer(Open to internship roles)!
 
 Visit my portfolio website [dapoadedire.netlify.app](https://dapoadedire.netlify.app) 
 
