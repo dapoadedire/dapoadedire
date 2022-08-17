@@ -28,3 +28,6 @@ Git Config   19 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+
+
+![](https://komarev.com/ghpvc/?dapoadedire=your-github-username&color=grey)
