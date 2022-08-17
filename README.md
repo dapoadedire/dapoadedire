@@ -9,3 +9,6 @@ Key Skills: [HTML](), [CSS]() , [Javascript](), [Python](), [Django]()
 
 You can schedule a cofee chat with me [here](https://calendly.com/dapoadedire/cofee-chat).
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
