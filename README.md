@@ -1,4 +1,4 @@
-### Backend Developer(Open to internship roles).  
+### Backend Developer(Open to internship roles)![](https://komarev.com/ghpvc/?username=dapoadedire&color=grey)
 
 Visit my portfolio website [dapoadedire.netlify.app](https://dapoadedire.netlify.app) 
 
@@ -29,4 +29,4 @@ Git Config   19 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-![](https://komarev.com/ghpvc/?username=dapoadedire&color=grey)
+
