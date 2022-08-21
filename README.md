@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dapoadedire&label=Profile%20views&color=0e75b6&style=flat" alt="dapoadedire" /> </p>
 ### Backend Developer(Open to internship roles)!
 
 Visit my portfolio website [dapoadedire.netlify.app](https://dapoadedire.netlify.app) 
