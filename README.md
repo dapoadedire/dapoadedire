@@ -30,7 +30,9 @@ Other        13 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-<img width=100%>![Dapo Adedire's GitHub stats](https://github-readme-stats.vercel.app/api?username=dapoadedire&show_icons=true&theme=swift)</img>
+<img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github-readme-stats.vercel.app/api?username=dapoadedire&show_icons=true&theme=swift)" width="100"/>
+<!-- 
+![Dapo Adedire's GitHub stats](https://github-readme-stats.vercel.app/api?username=dapoadedire&show_icons=true&theme=swift)
 ![GitHub Streak](https://streak-stats.demolab.com?user=dapoadedire&theme=black-ice&hide_border=true&border_radius=0)
-
+ -->
 
