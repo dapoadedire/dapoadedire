@@ -30,3 +30,5 @@ Other        13 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
+
+<span>"You can't connect the dots looking forward," Jobs said. "You can only connect them looking backward. So you have to trust that the dots will somehow connect in your future. You have to trust in something -- your gut, destiny, life, karma, whatever. - Steve Jobs </span>
