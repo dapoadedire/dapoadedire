@@ -2,7 +2,7 @@
 <!-- 
 <img src="https://www.codewars.com/users/dapoadedire/badges/large" /> -->
 
-### Backend Developer(Open to internship roles)!
+### Software Developer(Open to internship roles)!
 
 Visit my portfolio website [dapoadedire.vercel.app](https://dapoadedire.vercel.app) 
 
