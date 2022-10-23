@@ -4,7 +4,7 @@
 
 ### Software Developer(Open to internship roles)!
 
-Visit my portfolio website [dapoadedire.vercel.app](https://dapoadedire.vercel.app) 
+Visit my portfolio website [dapoadedire.tech](https://dapoadedire.tech) 
 
 Socials: [Twitter](twitter.com/dapo_adedire), [Hashnode](dapoadedire.hashnode.dev), [Whatsapp](wa.me/2349038388723), [LinkedIn](https://www.linkedin.com/in/dapoadedire/)
 
