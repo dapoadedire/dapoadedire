@@ -8,7 +8,7 @@
 <!-- 
 <img src="https://www.codewars.com/users/dapoadedire/badges/large" /> -->
 
-I'm a software developer, echncal writer and open source enthusiast who is passionate about collaborating and learning new things. I am currently looking for internship opportunities to gain hands-on experience in the field.
+I'm a software developer, technical writer and open source enthusiast who is passionate about collaborating and learning new things. I am currently looking for internship opportunities to gain hands-on experience in the field.
 
 You can check out my portfolio website,  [dapoadedire.tech](https://dapoadedire.tech) , to see some of my work. I am skilled in a variety of languages and tools, including [HTML](), [CSS]() , [Javascript](), [Python](), [Django](), [DRF](), [Git]() and [Postman]().
 
