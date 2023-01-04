@@ -22,6 +22,3 @@ jobs:
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
           #REPOSITORY: <gh_username/gh_username>
 
-
-name: Hashnode Blog
-uses: varunsridharan/action-hashnode-blog@1.1.1
