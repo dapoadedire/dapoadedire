@@ -36,12 +36,14 @@ Bash         48 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-## My Latest Blog Posts 👇
+## My Latest Hashnode Blog Posts
+ 
 <!-- HASHNODE_BLOG:START -->
 - [Creating a .gitignore file with a Python Package](https://dapoadedire.hashnode.dev//creating-a-gitignore-file-with-a-python-package)
 - [How to Convert Images to PDF in Python](https://dapoadedire.hashnode.dev//how-to-convert-images-to-pdf-in-python)
 - [How To Add A Custom Rich Text-Editor In Your Django Website](https://dapoadedire.hashnode.dev//how-to-add-a-custom-rich-text-editor-in-your-django-website)
 <!-- HASHNODE_BLOG:END -->
+
 
 
 
