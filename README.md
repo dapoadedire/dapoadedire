@@ -26,7 +26,7 @@ If you'd like to grab a virtual coffee and chat about potential projects or oppo
 - [How To Add A Custom Rich Text-Editor In Your Django Website](https://dapoadedire.hashnode.dev//how-to-add-a-custom-rich-text-editor-in-your-django-website)
 <!-- HASHNODE_BLOG:END -->
 
-
+## Wakatime 
 <!--START_SECTION:waka-->
 
 ```text
