@@ -44,6 +44,7 @@ Bash             39 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+## Holopin Badges
 
 
 [![@dapoadedire's Holopin board](https://holopin.io/api/user/board?user=dapoadedire)](https://holopin.io/@dapoadedire)
