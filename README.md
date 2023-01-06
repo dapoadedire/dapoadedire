@@ -16,7 +16,15 @@ If you're interested in connecting, you can find me on [Twitter](https://www.twi
 
 If you'd like to grab a virtual coffee and chat about potential projects or opportunities, you can schedule a time with me using the [provided link](https://calendly.com/dapoadedire/cofee-chat). And if you appreciate my work, you can [buy me a coffee](https://paystack.com/pay/buy-dapoadedire-a-coffee) as a token of your support. Thanks for visiting my profile!
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=dapoadedire&label=Profile%20views&color=0e75b6&style=flat" alt="dapoadedire" /> </p>
+
+
+## My Latest Hashnode Blog Posts
+ 
+<!-- HASHNODE_BLOG:START -->
+- [Creating a .gitignore file with a Python Package](https://dapoadedire.hashnode.dev//creating-a-gitignore-file-with-a-python-package)
+- [How to Convert Images to PDF in Python](https://dapoadedire.hashnode.dev//how-to-convert-images-to-pdf-in-python)
+- [How To Add A Custom Rich Text-Editor In Your Django Website](https://dapoadedire.hashnode.dev//how-to-add-a-custom-rich-text-editor-in-your-django-website)
+<!-- HASHNODE_BLOG:END -->
 
 
 <!--START_SECTION:waka-->
@@ -36,16 +44,8 @@ Bash             39 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-## My Latest Hashnode Blog Posts
- 
-<!-- HASHNODE_BLOG:START -->
-- [Creating a .gitignore file with a Python Package](https://dapoadedire.hashnode.dev//creating-a-gitignore-file-with-a-python-package)
-- [How to Convert Images to PDF in Python](https://dapoadedire.hashnode.dev//how-to-convert-images-to-pdf-in-python)
-- [How To Add A Custom Rich Text-Editor In Your Django Website](https://dapoadedire.hashnode.dev//how-to-add-a-custom-rich-text-editor-in-your-django-website)
-<!-- HASHNODE_BLOG:END -->
-
-
 
 
 [![@dapoadedire's Holopin board](https://holopin.io/api/user/board?user=dapoadedire)](https://holopin.io/@dapoadedire)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dapoadedire&label=Profile%20views&color=0e75b6&style=flat" alt="dapoadedire" /> </p>
 
