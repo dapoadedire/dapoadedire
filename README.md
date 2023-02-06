@@ -14,7 +14,7 @@ You can check out my portfolio website,  [dapoadedire.tech](https://dapoadedire.
 
 I am currently learning [React](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/), [TailwindCSS](https://tailwindcss.com/) and [NextJS](https://nextjs.org/).
 
-If you're interested in connecting, you can find me on [Twitter](https://www.twitter.com/dapo_adedire), [Hashnode](https://dapoadedire.hashnode.dev), [Whatsapp](https://wa.me/2349038388723), [LinkedIn](https://www.linkedin.com/in/dapoadedire/). I'm always open to new collaborations and discussions, so don't hesitate to reach out.
+If you're interested in connecting, you can find me on [Twitter](https://www.twitter.com/dapo_adedire), [Hashnode](https://dapoadedire.hashnode.dev), and [LinkedIn](https://www.linkedin.com/in/dapoadedire/). I'm always open to new collaborations and discussions, so don't hesitate to reach out.
 
 If you'd like to grab a virtual coffee and chat about potential projects or opportunities, you can schedule a time with me using the [provided link](https://calendly.com/dapoadedire/cofee-chat). And if you appreciate my work, you can [buy me a coffee](https://paystack.com/pay/buy-dapoadedire-a-coffee) as a token of your support. Thanks for visiting my profile!
 
