@@ -12,7 +12,7 @@ I'm a software developer, technical writer and open source enthusiast who is pas
 
 You can check out my portfolio website,  [dapoadedire.tech](https://dapoadedire.tech) , to see some of my work. I am skilled in a variety of languages and tools, including [HTML](), [CSS]() , [Javascript](), [Python](), [Git and Github]().
 
-I am currently learning [React](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/), [TailwindCSS](https://tailwindcss.com/) and [NextJS](https://nextjs.org/).
+I am currently learning and building with [React](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/), [TailwindCSS](https://tailwindcss.com/) and [NextJS](https://nextjs.org/).
 
 If you're interested in connecting, you can find me on [Twitter](https://www.twitter.com/dapo_adedire), [Hashnode](https://dapoadedire.hashnode.dev), and [LinkedIn](https://www.linkedin.com/in/dapoadedire/). I'm always open to new collaborations and discussions, so don't hesitate to reach out.
 
