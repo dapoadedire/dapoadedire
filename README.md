@@ -6,8 +6,8 @@
 - Software developer, technical writer at [FreecodeCamp](https://www.freecodecamp.org/news/author/dapoadedire), open source enthusiast. 
 - Seeking internship or junior developer opportunities to gain experience. 
 - Portfolio: [dapoadedire.tech](https://dapoadedire.tech). 
-- Skilled in [HTML](), [CSS]() , [Javascript](), [Python](), [Git and Github](). 
-- Learning [React](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/), [TailwindCSS](https://tailwindcss.com/) and [NextJS](https://nextjs.org/).
+- Skilled in [HTML](), [CSS]() , [TailwindCSS](https://tailwindcss.com/), [Javascript](), [React](https://reactjs.org/), [Python](), [Git and Github](). 
+- Learning [Typescript](https://www.typescriptlang.org/) and [NextJS](https://nextjs.org/).
 - Connect on [Twitter](https://www.twitter.com/dapo_adedire), [Hashnode](https://dapoadedire.hashnode.dev), and [LinkedIn](https://www.linkedin.com/in/dapoadedire/). 
 - Schedule a virtual coffee chat: [https://calendly.com/dapoadedire/cofee-chat](https://calendly.com/dapoadedire/cofee-chat). 
 - Support: [buymeacoffee.com/dapoadedire](https://www.buymeacoffee.com/dapoadedire)
