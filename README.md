@@ -1,4 +1,4 @@
-## Hello and welcome! My name is Dapo Adedire 👋🏾
+### Hello and welcome! My name is Dapo Adedire 👋🏾
 
 [![Website Badge](https://img.shields.io/badge/-Portfolio-3B7EBF?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://dapoadedire.tech)](https://dapoadedire.tech) [![Blog Badge](https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&logo=Hashnode&logoColor=white&link=https://dapoadedire.hashnode.dev)](https://dapoadedire.hashnode.dev) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dapoadedire)](https://www.linkedin.com/in/dapoadedire) [![Twitter Badge](https://img.shields.io/badge/-@dapo_adedire-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/dapo_adedire)](https://twitter.com/dapo_adedire)
 
@@ -9,8 +9,6 @@
 - Skilled in [HTML](), [CSS]() , [TailwindCSS](https://tailwindcss.com/), [Javascript](), [React](https://reactjs.org/), [Python](), [Git and Github](). 
 - Learning [Typescript](https://www.typescriptlang.org/) and [NextJS](https://nextjs.org/).
 - Connect on [Twitter](https://www.twitter.com/dapo_adedire), [Hashnode](https://dapoadedire.hashnode.dev), and [LinkedIn](https://www.linkedin.com/in/dapoadedire/). 
-- Schedule a virtual coffee chat: [https://calendly.com/dapoadedire/cofee-chat](https://calendly.com/dapoadedire/cofee-chat). 
-- Support: [buymeacoffee.com/dapoadedire](https://www.buymeacoffee.com/dapoadedire)
 
 
 
