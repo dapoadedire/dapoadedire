@@ -3,7 +3,7 @@ Hello there,
 Software Developer and occasional technical writer.  
 Active member of tech and engineering communities, including [GDSAOAU]() and [IEEEOAUSB]().  
 I mostly build with TypeScript and Python.  
-Currently learning Golang.
+Currently looking into web animations and web performance,learning Golang on the side too.
 
 I'm also diving into backend systems, DevOps, and DSA (road to FAANG? Maybe, lol).
 
