@@ -14,7 +14,7 @@ here’s some stuff i’ve been working on:
 
 wanna connect or see more?
 
-[website](https://dapoadedire.vercel.app) | [email](mailto:adedireadedapo19@gmail.com) | [twitter](https://x.com/dapoadedire)
+[website](https://dapoadedire.com) | [email](mailto:adedireadedapo19@gmail.com) | [twitter](https://x.com/dapoadedire)
 
 ### dev activity (waka time)
 
