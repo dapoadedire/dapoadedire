@@ -1,7 +1,7 @@
 ### hey, i'm dapo 👋🏾
 
 i’m a frontend developer who vibes with react, next.js, typescript, and clean UI.  
-lately, i’ve been diving into backend and cloud engineering—shipping projects that solve real problems.
+lately, i’ve been diving into backend and cloud engineering— just learning how to ship projects that solve real problems.
 
 here’s some stuff i’ve been working on:
 
