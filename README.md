@@ -5,7 +5,7 @@ lately, i’ve been diving into backend and cloud engineering— just learning h
 
 want to connect or see more?
 
-[website](https://dapoadedire.com) | [email](mailto:adedireadedapo19@gmail.com) | [twitter(x)](https://x.com/dapo_adedire)
+[website](https://dapoadedire.com) | [email](mailto:adedireadedapo19+github@gmail.com) | [twitter(x)](https://x.com/dapo_adedire)
 
 ### dev activity (waka time)
 
