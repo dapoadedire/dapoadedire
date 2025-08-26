@@ -1,6 +1,6 @@
 ### hey, i'm dapo 👋🏾  
 
-frontend engineer with a soft spot for **clean UI** and **developer-friendly systems**.  
+frontend engineer interested in **clean UI** and **developer-friendly systems**.  
 i build with react, next.js, and typescript — but i’m also exploring backend and cloud so i can ship **end-to-end projects** that actually solve problems.  
 
 [website](https://dapoadedire.com) • [email](mailto:adedireadedapo19+github@gmail.com) • [twitter(x)](https://x.com/dapo_adedire)  
