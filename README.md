@@ -54,7 +54,7 @@ i build with react, next.js, and typescript — but i’m also exploring backend
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2026 - To: 04 April 2026
+From: 29 March 2026 - To: 05 April 2026
 
 Total Time: 1 hr 26 mins
 
