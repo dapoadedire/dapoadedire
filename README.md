@@ -54,12 +54,11 @@ i build with react, next.js, and typescript — but i’m also exploring backend
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2026 - To: 11 November 2026
+From: 05 November 2026 - To: 12 November 2026
 
-Total Time: 12 mins
+Total Time: 0 secs
 
-Markdown   12 mins               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀   95.50 %
-Python     0 secs                ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
